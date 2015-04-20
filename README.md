@@ -1,0 +1,1 @@
+Virtual Position Manager for MQL5 allows the coexistence of different expert advisors trading in the same account, even opening operations in the same symbol in different directions (buying and selling at the same time).
